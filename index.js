@@ -16,6 +16,27 @@ const questions = [
       }
     },
   },
+
+  {
+    type: "input",
+    message: "Please provide a description of the project.",
+    name: "project description",
+    // validates whether user provided a value
+    validate: (value) => {
+      if (value) {
+        return true;
+      } else {
+        return "Please provide a project description to continue!";
+      }
+    }
+  }
+
+  {
+
+
+
+    
+  }
 ];
 
 // function to write README file
