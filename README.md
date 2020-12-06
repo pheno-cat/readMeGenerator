@@ -2,7 +2,7 @@
 
     ### Description
     The README generator is a command-line application that accepts user input. Then a high-quality, professional README.md is generated.
-    <a href=>
+
     ### Table of Contents
     * [Installation](#installation)
     * [Usage](#usage)
@@ -30,5 +30,7 @@
     GitHub: https://github.com/pheno-cat
 
     E-mail: catherinejalomo@gmail.com
+
+    ### Walkthrough Video
 
 [README generator - walkthrough.mp4.zip](https://github.com/pheno-cat/readMeGenerator/files/5649610/README.generator.-.walkthrough.mp4.zip)
