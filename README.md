@@ -1,7 +1,7 @@
-# readme generator
+# README generator
       
     ### Description
-    it generates answers
+    The README generator is a command-line application that accepts user input when prompted for information. A high-quality, professional README.md is generated with the title of the project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests and Questions.
 
     ### Table of Contents
     * [Installation](#installation)
@@ -15,16 +15,16 @@
     undefined
 
     ### Usage
-    follow the prompts
+    To ensure a complete README, follow all the prompts and do not leave any prompts blank.
 
     ### License
     N/A
 
     ### Contributing
-    no
+    No
 
     ### Tests
-    no
+    No
 
     ### Questions
     GitHub: https://github.com/pheno-cat
